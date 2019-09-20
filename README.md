@@ -20,7 +20,7 @@ It must be established that the team was divided into three (3) sub-teams to com
 
 DESIGN & PROTOTYPE
 
-We created a Design: The login page was designed by one (1) of the team member as a prototype for the proposed website. The design tool used is Figma, it’s a collaborative interface design tool with cool functionalities and features to foster professional designs. 
+We created a Design: The login page was designed by one (1) of the team member as a prototype for the proposed website. The design tool we used was Figma, it’s a collaborative interface design tool with cross OS compactibility and cool functionalities and features to foster professional designs. 
 
 Sign Up Design
 
@@ -29,7 +29,7 @@ Login Design
 
 FRONT-END
 
-The front-end was developed using HTML5 and CSS3 and JavaScript; these are the steps that were taken:
+The front-end was developed using HTML5, CSS3 and JavaScript; these are the steps that were taken:
 
 We replicated our design using HTML and CSS. We decided to go with plain old HTML and CSS to help others on the team collaborate and also to reduce boilerplate code.
 We achieved basic responsiveness using @media queries in CSS.
